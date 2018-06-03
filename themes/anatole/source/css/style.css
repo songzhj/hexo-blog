@@ -217,6 +217,7 @@ a:hover, a:active {
 	margin: 0;
 }
 .sidebar .logo-title .title a {
+	display: inline-block;
 	text-decoration: none;
 	color: #464646;
 	font-size: 2rem;

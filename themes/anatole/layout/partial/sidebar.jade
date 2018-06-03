@@ -3,7 +3,7 @@
     .title
       img(src= url_for('images/self_img.png'),style="height:140px;width:126px;")
       h3(title="")
-        a(href="/")= config.title
+        a#name(href="/")= config.title
       if theme.description
         .description
           p= theme.description
