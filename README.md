@@ -1,2 +1,2 @@
 # hexo-blog
-http://blog.songzhj.com
+https://blog.songzhj.com
