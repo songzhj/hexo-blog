@@ -527,6 +527,9 @@ a:hover, a:active {
 	font-size: 22px;
 }
 .links a {
+	display: block;
+	text-align: center;
+	text-decoration: underline;
 	cursor: pointer;
 }
 
